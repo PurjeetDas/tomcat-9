@@ -1,5 +1,5 @@
 FROM adoptopenjdk/openjdk8:alpine
-
+MAINTAINER purjeet.das@infosys.com
 ENV TOMCAT_MAJOR=9 \
     TOMCAT_VERSION=9.0.54
 
